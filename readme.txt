@@ -2,3 +2,4 @@
 ĞŞ¸Ägit ÎÄ¼ş¡£
 second
 git is a mutable index called stage.
+git tracks changes.
